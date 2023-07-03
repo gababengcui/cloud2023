@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jun 19 15:21:06 CST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0188-d287-5d24-000015fde580 
+on database directory C:\Applications\JavaProject\cloud2023\nacos\data\derby-data with class loader org.springframework.boot.loader.LaunchedURLClassLoader@2e0fa5d3 
+Loaded from jar:file:/C:/Applications/JavaProject/cloud2023/nacos/target/nacos-server.jar!/BOOT-INF/lib/derby-10.10.1.1.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_361-b09
+user.dir=C:\Applications\JavaProject\cloud2023\nacos\bin
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

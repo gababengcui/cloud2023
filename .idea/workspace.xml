@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="26e96415-003b-4fb0-8f4a-576811406cf6" name="Changes" comment="Initial commit" />
+=======
+    <list default="true" id="26e96415-003b-4fb0-8f4a-576811406cf6" name="Changes" comment="" />
+>>>>>>> 06b89df9d303b2d5a34655f6f8012a826f52ee6e
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +69,11 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.09407338",
     "project.structure.side.proportion": "0.28066528",
+<<<<<<< HEAD
     "settings.editor.selected.configurable": "project.propVCSSupport.ChangelistConflict",
+=======
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+>>>>>>> 06b89df9d303b2d5a34655f6f8012a826f52ee6e
     "spring.configuration.checksum": "475000adbc937a87ca39875439864d25"
   }
 }]]></component>
@@ -362,6 +370,7 @@
       <workItem from="1687827656945" duration="5773000" />
       <workItem from="1687865273455" duration="2084000" />
       <workItem from="1687914026508" duration="13302000" />
+<<<<<<< HEAD
       <workItem from="1688348353541" duration="3038000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
@@ -372,6 +381,10 @@
       <updated>1688351762703</updated>
     </task>
     <option name="localTasksCounter" value="2" />
+=======
+      <workItem from="1688348353541" duration="1575000" />
+    </task>
+>>>>>>> 06b89df9d303b2d5a34655f6f8012a826f52ee6e
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,10 +481,13 @@
       </map>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
+=======
+>>>>>>> 06b89df9d303b2d5a34655f6f8012a826f52ee6e
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>

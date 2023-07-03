@@ -1,0 +1,34 @@
+2023-06-19 15:33:42,915 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2023-06-19 15:38:07,416 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2023-06-19 16:00:46,544 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2023-06-19 16:02:46,746 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2023-06-19 16:03:01,935 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2023-06-19 16:39:59,821 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2023-06-19 16:39:59,853 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2023-06-19 16:39:59,853 INFO serviceName: DEFAULT_GROUP@@nacos-payment-provider changed, schedule push for: 192.168.220.1:64193, agent: Nacos-Java-Client:v1.1.1, key: 192.168.220.1,64193,196498031477000
+
+2023-06-19 16:39:59,853 INFO send udp packet: 192.168.220.1,64193,196498031477000
+
+2023-06-19 16:40:09,865 INFO retry to push data, key: 192.168.220.1,64193,196498031477000
+
+2023-06-19 16:40:09,865 INFO send udp packet: 192.168.220.1,64193,196498031477000
+
+2023-06-19 16:40:19,876 INFO retry to push data, key: 192.168.220.1,64193,196498031477000
+
+2023-06-19 16:40:19,876 WARN max re-push times reached, retry times 2, key: 192.168.220.1,64193,196498031477000
+
+2023-06-19 17:11:25,565 INFO DEFAULT_GROUP@@nacos-config-client is changed, add it to push queue.
+
+2023-06-19 17:30:00,507 INFO DEFAULT_GROUP@@nacos-config-client is changed, add it to push queue.
+
+2023-06-19 17:30:06,760 INFO DEFAULT_GROUP@@nacos-config-client is changed, add it to push queue.
+
+2023-06-19 17:35:14,434 INFO DEFAULT_GROUP@@nacos-config-client is changed, add it to push queue.
+
